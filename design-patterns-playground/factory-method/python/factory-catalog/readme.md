@@ -7,4 +7,4 @@ For example:
  - Samsung → produces phones, TVs, washing machines 
  - Sony → produces TVs, consoles, cameras
 
-Client doesn't need to know details of how each product is create - they simple select the manufacturer and receive the corresponding product
+Client doesn't need to know details of how each product is created - they simple select the manufacturer and receive the corresponding product
