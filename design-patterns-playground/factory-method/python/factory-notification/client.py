@@ -12,4 +12,4 @@ class Client:
         if self._creator is not None: 
             self._creator.notify(message)
         else: 
-            raise Exception("Creator is not setted!")
+            raise Exception("Creator is not set!")
